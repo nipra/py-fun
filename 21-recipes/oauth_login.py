@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# Source:
+# https://github.com/ptwobrussell/Recipes-for-Mining-Twitter
+
 import os
 import sys
 import twitter
